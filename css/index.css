@@ -5,9 +5,37 @@
    */
    
    h2{
+      /* color texto y fondo */
     color:red;
     font-size: 45;
     background-color: aquamarine;
+    text-align: center;
     
    }
+   /* selector soloyo */
+   .soloyo{
+      text-align: right;
+   }
+
+h1{
+   /* bordes */
+   border-top: solid 5px black;
+   border-right: dashed 8px blueviolet;
+   border-bottom: solid 10px gray; 
+   border-left: dotted 12px yellow;
+
+   /* relleno */ 
+   padding-top: 35px;
+   padding-left: 45px;
+   padding-right: 50;
+   padding-bottom: 25px;
+
+   /* margen */
+   margin-bottom: 50px;
+   margin-right: 100px;
+   margin-left: 150px;
+
+   
+
+ }   
 
